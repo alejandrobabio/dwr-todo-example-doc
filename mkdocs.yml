@@ -1,0 +1,16 @@
+site_name: DWR Todo app
+pages:
+  - Home: index.md
+  - Creating a new app: creating-a-new-app.md
+  - Add users: add-users.md
+  - Add sign up action: add-signup-action.md
+  - Add login and logout: add-login-and-logout.md
+  - Add tasks: add-tasks.md
+  - Authorizaton: authorization.md
+  - Add a tasks index page: add-a-tasks-index-page.md
+  - Adding tasks: adding-tasks.md
+  - Complete a task: complete-a-task.md
+  - Adding bootstrap: adding-bootstrap.md
+  - About: about.md
+
+theme: readthedocs
