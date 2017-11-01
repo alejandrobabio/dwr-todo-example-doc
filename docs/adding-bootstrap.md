@@ -1,5 +1,7 @@
 # Adding Bootstrap
 
+This step is optional, it has a new version of the templates of the app that make it look better. Anyway, it is a fast an dirty patch, and it is not the recommended way to manage your assets.
+
 ## Layouts
 
 Update application template and add partials for flash and navigation.
