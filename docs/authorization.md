@@ -42,7 +42,7 @@ module Todo
         name = Inflecto.camelize(
           request.path.split('/').reject(&:empty?).first
         )
-        Object.const_get("Main::Authorizations::#{name}").new.(user, request)
+        Object.const_get("Todo::Main::Authorizations::#{name}").new.(user, request)
       rescue NameError
         false
       end
