@@ -13,7 +13,7 @@
 
 ## Architecture
 
-The framework provides two structures to generate your app: **umbrella** and **flat** projects. Here, we'll explore the first one with `dry-web-roda` version `0.9.0`.
+The framework provides two structures to generate your app: **umbrella** and **flat** projects. Here, we'll explore the first one with `dry-web-roda` version `0.9.1`.
 
 The file structure for an umbrella application called `todo` is:
 ```
