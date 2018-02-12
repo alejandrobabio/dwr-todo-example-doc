@@ -29,3 +29,4 @@ $ shotgun -p 3000 -o 0.0.0.0 config.ru
 ```
 And when you visit http://localhost:3000 in your browser, you should see **"Welcome to dry-web-roda!"**
 
+**Update [2018-02-12]**: If you got an empty page instead of the welcome message. Add to the Gemfile `gem "roda-flow", "~> 0.3.1"`, and run `bundle update roda-flow`. This will be fixed shortly in new versions of original gems.
