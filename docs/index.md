@@ -96,3 +96,6 @@ The `web` folder has the user interface, the output is in `templates`, and in `r
 The `system` folder has the booting stuff of the app (or sub-app), the Web and Container classes are the main actors here. 
 
 About the `views` folder, is for view template preparation.
+## Note about versions
+
+This document is versioned with the same tags that the `dry-web-roda` gem does. This is the link to the [latest version](http://dry-web-roda-todo-app.readthedocs.io/en/latest/).
